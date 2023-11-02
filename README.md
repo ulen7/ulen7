@@ -1,27 +1,27 @@
 # Welcome to My GitHub Profile!
 
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm Alejandro!
 
 ### 🖥️ Helpdesk Analyst & Tech Enthusiast
 
-I'm currently working at a company in Quebec, blending administrative skills with technical acumen to provide top-notch helpdesk support. I communicate fluently in both English and French and have a keen interest in expanding my IT knowledge and expertise.
+I'm currently working at a company in Quebec, blending my soft skills with technical knowledge to provide top-notch helpdesk support. I communicate fluently in both English and French and have a keen interest in expanding my IT knowledge and expertise.
 
 ---
 
 ### 🛠️ Skills and Tools
 
-- **Troubleshooting:** Proficient in diagnosing and resolving software and hardware issues.
-- **Customer Service:** Experienced in providing excellent customer support and service.
-- **Languages:** Fluent in French and English.
-- **Technical Knowledge:** Continuously expanding my IT knowledge. Eager to learn more about network administration, cybersecurity, and cloud services.
-- **Software Proficiency:** Comfortable using a wide range of helpdesk and administrative software.
+- **Troubleshooting:** I love tinkering with computers sinch I am 6 and in the process I learnt to diagnose and resolve software and hardware issues, through practice and some errors here and there.
+- **Customer Service:** I love working with people, above all helping them however I can, and give I am good with computers I choose the helpdesk path.
+- **Languages:** Fluent in French, English and Spanish, looking forward to learn German too and maybe some japanese.
+- **Technical Knowledge:** Continuously expanding my IT knowledge. Eager to learn more about network administration, cybersecurity, programing languages and other techs that may come up in the future.
+- **Software Proficiency:** Comfortable using a wide range of tools, like VS Code, Microsoft 365 and Linux.
 
 ---
 
 ### 💡 Projects and Interests
 
-- **[Project Name]**: Brief description of the project and the technologies used.
-- **Learning Goals**: Currently exploring topics in IT to become a skilled IT analyst.
+- **Homelab**: Currently I am working on a Homelab based on Ubuntu mounted in a tiny computer (Lenovo 920X) along with Docker to have services like Traefik, Portainer, Plex and some others.
+- **Learning Goals**: Currently exploring topics in IT to become a skilled IT analyst like network security, linux and be better at Web Development.
 
 ---
 
@@ -31,8 +31,9 @@ As part of my journey to enhance my IT skills, I am focusing on the following ar
 
 - Networking Fundamentals
 - Security Best Practices
-- Cloud Computing Services
-- Advanced Helpdesk Management Techniques
+- Cibersecurity
+- React
+- Pf
 
 I am committed to lifelong learning and keeping up-to-date with the latest technologies.
 
@@ -40,7 +41,7 @@ I am committed to lifelong learning and keeping up-to-date with the latest techn
 
 ### 📫 Get in Touch
 
-Feel free to reach out for collaborations or if you have any questions. You can connect with me through [LinkedIn](#) or [email](#).
+Feel free to reach out for collaborations or if you have any questions. You can connect with me through [LinkedIn](#https://www.linkedin.com/in/alensm/).
 
 Thank you for visiting my GitHub profile!
 
