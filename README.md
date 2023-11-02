@@ -11,7 +11,7 @@ I'm currently working at a company in Quebec, blending my soft skills with techn
 ### 🛠️ Skills and Tools
 
 - **Troubleshooting:** I love tinkering with computers sinch I am 6 and in the process I learnt to diagnose and resolve software and hardware issues, through practice and some errors here and there.
-- **Customer Service:** I love working with people, above all helping them however I can, and give I am good with computers I choose the helpdesk path.
+- **Customer Service:** I love working with people, above all helping them however I can, and given I am good with computers I choose the helpdesk path.
 - **Languages:** Fluent in French, English and Spanish, looking forward to learn German too and maybe some japanese.
 - **Technical Knowledge:** Continuously expanding my IT knowledge. Eager to learn more about network administration, cybersecurity, programing languages and other techs that may come up in the future.
 - **Software Proficiency:** Comfortable using a wide range of tools, like VS Code, Microsoft 365 and Linux.
