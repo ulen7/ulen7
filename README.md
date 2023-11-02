@@ -4,7 +4,7 @@
 
 ### 🖥️ Helpdesk Analyst & Tech Enthusiast
 
-I'm currently working at a company in Quebec, blending my soft skills with technical knowledge to provide top-notch helpdesk support. I communicate fluently in both English and French and have a keen interest in expanding my IT knowledge and expertise.
+I'm currently working at a company in Quebec, blending my soft skills with technical knowledge to provide top-notch helpdesk support. I communicate everyday in both English and French at work and have a keen interest in expanding my IT knowledge and expertise.
 
 ---
 
