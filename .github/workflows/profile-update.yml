@@ -1,7 +1,7 @@
 name: Update README with Recent Activity
+
 on:
   schedule:
-    # Runs every 8 hours (at 00:00, 08:00, 16:00 UTC)
     - cron: '0 */8 * * *'
   workflow_dispatch:
 
@@ -11,6 +11,12 @@ jobs:
     name: Update README
     steps:
       - uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
       - uses: Readme-Workflows/recent-activity@v2.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
