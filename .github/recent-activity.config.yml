@@ -6,12 +6,3 @@ username: ulen7
 # The maximum number of events to display
 max: 5
 
-# Enable or disable specific types of events
-events:
-  - commit
-  - issue
-  - pull_request
-  - push
-  - fork
-  - release
-  - public
