@@ -1,5 +1,9 @@
-# .github/recent-activity.config.yml
-
-# Your GitHub username
 username: ulen7
-
+max: 5
+events:
+  - issue
+  - pull_request
+  - push
+  - fork
+  - release
+  - public
