@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Alejandro!
+### Hi there, I'm Alejandro!
 
 As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust technical knowledge to deliver top-notch IT support. Fluent in English, French, and Spanish, I'm passionate about continuous learning and eager to expand my expertise in network administration, cybersecurity, and programming.
 
 ---
 
-### 🛠️ Skills & Expertise
+### 🛠Skills & Expertise
 
 * **Troubleshooting**: With a lifelong passion for computers, I excel at diagnosing and resolving a wide range of software and hardware issues through hands-on experience and a systematic approach.
 * **Customer Service**: My ability to empathize and communicate effectively allows me to provide patient, clear, and effective support, ensuring user satisfaction.
@@ -13,7 +13,7 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 
-### 💡 Projects & Interests
+### Projects & Interests
 
 * **Homelab**: 🚀 Currently building a personal homelab on an Ubuntu-based Lenovo 920X mini PC. Utilizing **Docker**, I'm self-hosting services like **Traefik** (reverse proxy), **Portainer** (container management), **qBitTorrent**, a **Minecraft server**, and **Jellyfin** (media server). This project deepens my understanding of containerization, networking, and server management in a hands-on environment.
 * **Networking**: I actively manage my home network using **pfSense** on a mini-PC, integrated with a **Cisco switch**. This setup allows me to implement advanced network configurations, security policies, and gain hands-on experience with enterprise-grade networking hardware.
@@ -23,7 +23,7 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 
-### 📚 Learning Path
+### Learning Path
 
 Committed to lifelong learning, I'm actively focusing on the following areas to grow as a skilled IT Analyst:
 
@@ -36,7 +36,7 @@ Committed to lifelong learning, I'm actively focusing on the following areas to 
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 Feel free to connect with me for collaborations, questions, or just to chat about tech!
 
