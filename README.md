@@ -2,6 +2,8 @@
 
 As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust technical knowledge to deliver top-notch IT support. Fluent in English, French, and Spanish, I'm passionate about continuous learning and eager to expand my expertise in network administration, cybersecurity, and programming.
 
+### Recent Activity
+
 <p align="center">
   <a href="https://github.com/ulen7">
     <img src="https://github-readme-stats.vercel.app/api?username=ulen7&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Alejandro's GitHub Stats" />
@@ -10,11 +12,6 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulen7&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
----
-
-### Recent Activity
- 
 
 ---
 
