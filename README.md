@@ -13,6 +13,10 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 
+### Recent Activity
+
+---
+
 ### Skills & Expertise
 
 * **Core Competencies**: Troubleshooting, IT Support, Customer Service, System Diagnostics
