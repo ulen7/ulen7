@@ -2,7 +2,7 @@
 
 As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust technical knowledge to deliver top-notch IT support. Fluent in English, French, and Spanish, I'm passionate about continuous learning and eager to expand my expertise in network administration, cybersecurity, and programming.
 
-### Recent Activity
+### Recent Activity 
 
 <p align="center">
   <a href="https://github.com/ulen7">
