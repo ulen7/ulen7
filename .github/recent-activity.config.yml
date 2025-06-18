@@ -1,0 +1,16 @@
+# .github/recent-activity.config.yml
+
+# Your GitHub username
+username: ulen7
+
+# The maximum number of events to display
+max: 5
+
+# Enable or disable specific types of events
+events:
+  - issue
+  - pull_request
+  - push
+  - fork
+  - release
+  - public
