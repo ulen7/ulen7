@@ -1,5 +1,3 @@
-### Recent Activity
-
 ### Hi there, I'm Alejandro!
 
 As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust technical knowledge to deliver top-notch IT support. Fluent in English, French, and Spanish, I'm passionate about continuous learning and eager to expand my expertise in network administration, cybersecurity, and programming.
@@ -13,6 +11,8 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
   </a>
 </p>
 
+---
+### Recent Activity
 ---
 
 ### Skills & Expertise
