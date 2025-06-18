@@ -4,7 +4,7 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 
-### 🛠Skills & Expertise
+### Skills & Expertise
 
 * **Troubleshooting**: With a lifelong passion for computers, I excel at diagnosing and resolving a wide range of software and hardware issues through hands-on experience and a systematic approach.
 * **Customer Service**: My ability to empathize and communicate effectively allows me to provide patient, clear, and effective support, ensuring user satisfaction.
