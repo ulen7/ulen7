@@ -1,9 +1,0 @@
-username: ulen7
-max: 5
-events:
-  - issue
-  - pull_request
-  - push
-  - fork
-  - release
-  - public
