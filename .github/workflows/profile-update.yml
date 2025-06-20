@@ -15,6 +15,6 @@ jobs:
     steps:
       - uses: Readme-Workflows/recent-activity@v2.2.0
         with:
-          CONFIG_FILE: .github/workflows/activity-config.yml
+          CONFIG_FILE: .github/activity-config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
