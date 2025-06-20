@@ -15,9 +15,9 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [mikefarah/yq](https://github.com/mikefarah/yq)
-n
-n
-
+2. 1
+3. 2
+4. 
 
 <!--RECENT_ACTIVITY:end-->
 
