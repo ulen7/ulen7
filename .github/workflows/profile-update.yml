@@ -21,6 +21,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
 
       - uses: Readme-Workflows/recent-activity@v2.2.0
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          max: 5
