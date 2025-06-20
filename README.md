@@ -13,9 +13,8 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 ### Recent Activity
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ### Skills & Expertise
