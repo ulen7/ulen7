@@ -11,9 +11,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update README
+    name: Update Profile README
     steps:
-      - uses: Readme-Workflows/recent-activity@v2.2.0
+      - uses: Readme-Workflows/recent-activity@v2.3.4
         with:
           CONFIG_FILE: .github/activity-config.yml
         env:
