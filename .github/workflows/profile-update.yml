@@ -13,13 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Git
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-
       - uses: Readme-Workflows/recent-activity@v2.2.0
+        with:
+          CONFIG_FILE: .github/workflows/activity-config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
