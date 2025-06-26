@@ -13,10 +13,10 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 ---
 ### Recent Activity
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4056](https://github.com/octocat/Hello-World/issues/4056) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
-2. ❗ Opened issue [#4056](https://github.com/octocat/Hello-World/issues/4056) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
-<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 ---
 
 ### Skills & Expertise
