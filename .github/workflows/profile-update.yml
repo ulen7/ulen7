@@ -19,8 +19,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: ulen7
-          COMMIT_MSG: "Update README with the recent activity"
-          MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity Readme
-          DATE_STRING: "Last update: `{DATE}`"
-          DATE_FORMAT: "dd.mm.yyyy"
