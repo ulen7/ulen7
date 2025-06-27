@@ -19,9 +19,9 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 2. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
 3. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
 4. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
-5. ⬆️ Pushed 1 commit(s) to [ulen7/ulen7](https://github.com/ulen7/ulen7)<br>
-6. ⬆️ Pushed 1 commit(s) to [ulen7/ulen7](https://github.com/ulen7/ulen7)<br>
-7. ⬆️ Pushed 1 commit(s) to [ulen7/ulen7](https://github.com/ulen7/ulen7)<br>
+5. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
+6. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
+7. ⬆️ Pushed 1 commit(s) to [ulen7/Minecraft](https://github.com/ulen7/Minecraft)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
