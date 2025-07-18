@@ -15,8 +15,8 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-2. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+1. 💪 Opened PR [#2](https://github.com/ulen7/mc_servermanager/pull/2) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+2. 💪 Opened PR [#1](https://github.com/ulen7/mc_servermanager/pull/1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 3. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 4. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 5. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
@@ -25,7 +25,7 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 17th, 2025
+Last Updated: Friday, July 18th, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
