@@ -15,9 +15,9 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-2. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-3. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+1. ⬆️ Pushed 12 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+2. 🎉 Merged PR [#2](https://github.com/ulen7/mc_servermanager/pull/2) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+3. ✌️ Released [mc_servermanagerv0.1](https://github.com/ulen7/mc_servermanager/releases/tag/v0.1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 4. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 5. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 6. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
