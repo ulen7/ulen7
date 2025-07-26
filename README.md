@@ -16,16 +16,16 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-2. ❌ Closed PR [#1](https://github.com/ulen7/mc_servermanager/pull/1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-3. 📖 Created new wiki page [Roadmap](https://github.com/ulen7/mc_servermanager/wiki/Roadmap) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-4. 📖 Created new wiki page [Installation](https://github.com/ulen7/mc_servermanager/wiki/Installation) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-5. 📖 Created new wiki page [Home](https://github.com/ulen7/mc_servermanager/wiki/Home) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-6. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-7. ⬆️ Pushed 2 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+2. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+3. 💪 Opened PR [#5](https://github.com/ulen7/mc_servermanager/pull/5) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+4. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+5. ❌ Closed PR [#1](https://github.com/ulen7/mc_servermanager/pull/1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+6. 📖 Created new wiki page [Roadmap](https://github.com/ulen7/mc_servermanager/wiki/Roadmap) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+7. 📖 Created new wiki page [Installation](https://github.com/ulen7/mc_servermanager/wiki/Installation) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 25th, 2025
+Last Updated: Saturday, July 26th, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
