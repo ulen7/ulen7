@@ -16,16 +16,16 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-2. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+2. ✌️ Released [mc_servermanagerv1.0](https://github.com/ulen7/mc_servermanager/releases/tag/v1.0) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 3. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 4. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-5. 💪 Opened PR [#5](https://github.com/ulen7/mc_servermanager/pull/5) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+5. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 6. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-7. ❌ Closed PR [#1](https://github.com/ulen7/mc_servermanager/pull/1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+7. 💪 Opened PR [#5](https://github.com/ulen7/mc_servermanager/pull/5) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 26th, 2025
+Last Updated: Sunday, July 27th, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
