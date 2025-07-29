@@ -20,7 +20,7 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 3. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 4. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 5. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
-6. ✌️ Released [mc_servermanager v1.0.1](https://github.com/ulen7/mc_servermanager/releases/tag/v1.0.1) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
+6. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 7. ⬆️ Pushed 1 commit(s) to [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 <!--RECENT_ACTIVITY:end-->
 
