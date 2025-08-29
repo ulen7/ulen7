@@ -15,7 +15,6 @@ As a **Helpdesk Analyst** in Quebec, I blend strong soft skills with robust tech
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/ulen7/mc_servermanager/pull/6) in [ulen7/mc_servermanager](https://github.com/ulen7/mc_servermanager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
